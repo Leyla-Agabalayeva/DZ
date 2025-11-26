@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.Design;
-
-Stack<string> boxes = new Stack<string>();
+﻿Stack<string> boxes = new Stack<string>();
 Queue<string> drivers = new Queue<string>();
 while (true)
 {
